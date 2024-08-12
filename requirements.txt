@@ -1,5 +1,4 @@
-page_dewarp
-numpy
-scipy
-Image
-cv2>=3.0
+numpy>=1.18.0
+scipy>=1.4.0
+Pillow>=7.0.0
+opencv-python>=3.0
